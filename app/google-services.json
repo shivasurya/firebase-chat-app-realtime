@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636503177505",
+    "firebase_url": "https://chatapp-93147.firebaseio.com",
+    "project_id": "chatapp-93147",
+    "storage_bucket": "chatapp-93147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636503177505:android:3ac58eba214a1701",
+        "android_client_info": {
+          "package_name": "com.tutsplus.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636503177505-ql8k8i6c0lve76r9pv1k7tgea6kbpkmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_ixyqetMlNH6MPyVFTjAMCQoq7nfEuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

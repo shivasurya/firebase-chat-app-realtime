@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/541f5a6b7cabb9ba1c769358f080278a010e411c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_909f90f2028bdd85ea20650becec365174171a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/add38ee7b3fadc8c1c731e961dbed68c2f42b25f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_97e2a860487b69495578f142b91c06ce37f24370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/31e78054f0aca4da9b442ed70cfc4a0201e082f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_8fb733beef7bd481b2cffa4e25ae518d4b1f5fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/9c59f16bc9ab54901a862c0c92c1cd2cb0011d1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_42dcc48c251cd0359315e3a3a122211e47951d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e360c2ae6a5ba92ef35f6af7049cfe2df708de4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_8b6c3fbfe6c26a3ca2c8f6acd43549ca7f046ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/glide-3.7.0_ac342f17260710fcdf4b2d129687098a64b8d47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0198c1ba044637059fc836ff864bfb0f18663129/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_09bea55c107d0fef9226693ef923bb42bd2d733b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a65f48d81a6218dbdaa39e73429b3c30b0f926c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_123d41636850c1d35aef4db46313cb96c06ebca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/450f5fb461c808065865d93285a72d4963754d93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_95058b5a442ddd3315c139c3eabc10c9e4bb999d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2004135ce5e287253955b9a225a729b92d5e83e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_5beabe9295e4e6567a4b39fe0feea7f6164a53de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b77e05ec9d67ee5cd4e59eb00d1e15d1ad66abd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_02e8d7cdc276f5e48bacdbf310f4cd7d0d09e781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/875416ee96571b02bb7ec058909c9f7b1ca79600/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_4565f807e7efa48fc9cb5273020a35d0a4035313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/272988406b53183dde011aeb4b80bb898ac34654/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_95be3e5a47397f5f2c5701887a539ddbe37aa5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6d6eceb19ec970609fed5c2927f09c2b9c1e0a0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_9d8dd22ef5460ce3a4bafd653300167a43b23a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/45b0ece785afa56e15575e0a094e9ff5638cdbcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_9f3cedb82db072a16907cd4ea1b29d6a79cd3fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4d9c3a0fd6d306252f36c6a95f705b120068e23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cf1d74db5ec33466da29d7d295a66d884d140efd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_5799ef1b76c8e864dbe589da8baf01ec7e1439b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d0d767781e1abf918f40598a9d5432dd728cd99e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_2e1658d4f39a42b54913f6ba3b9c6b37364b7c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fa01331243dc5501249df345a68129d637d81321/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_33b07121639be4b37340e13b60beb84efb94b252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2a1e6b076b59e00d3fde96e0c0f1b57640b59d10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_13ea28d3ad927cea77b510702e6b2236cd09a0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ad5793212cbcc1c3afe730f18d0d804743280768/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_0e3b8313e4e519875af83c6bc36dc06845bbbbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/17efe6674c94b2d462c404b4ad73efcc0851cc7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_4a97579cde23f79516c8b53eb7c89f9eb9035faa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d63db8c6c3db4a9cb9bf421d7c96ca5d257728e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_c82253936c8811c70aa08d031b6586463b27f24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cedcb9ad1cbb4cd0282961bdc0b06f6f53636045/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_ad77dd6ef2eb671ea4249cc2f73c0487e1dc16fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/51049aaddf2a8c14d21a0bf969844d8f161a5160/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_5006d6a5c68216cabdf1a74b4f53e51a563e33bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/282ea3cb34fd97938c579a403852454e7dd1c230/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_9905a2d0f1c79208b750d49a01debd9a892373f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_b8be5144022e8fb2366e72814320a8797abb6dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d2758a8fb8e409ff06f8801c5bd80824f12c7070/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_b5f9f4072719744b7ca799e0f4d4289995695e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d2758a8fb8e409ff06f8801c5bd80824f12c7070/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_575443af0e95d904e1410b1950e0776ff3953a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/9c41b68fa712f3f68659b1bcc6b7bb82386a6315/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_d0dfd327dc20317b03c0c1fd5f1a4b60806e9996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1e66f30e6e54c3cb25bd3ebedac5a2fa29bca432/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_e86fd482b8622d6f4eadb5cf2d7c80234cd71bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/636ca123bbd7837ca057c6fb924ece19180e3077/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_4b5a87e690cec57be5e29a1f27174e97051faf7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f8fc820b7116e46a89eb7cdcdf829c10c4980996/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_28e0641341984d49833e19a85fa14d9745c4b95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/38e2ac76428970711655d73b80c098c3467f7721/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/shivasurya/StudioProjects/how-to-create-an-android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_36818025c059a924adfe38c78af794fc182c37a4.jar" />
+    </item>
+
+</items>
