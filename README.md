@@ -11,3 +11,6 @@ Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions w
 
 [published url]: http://code.tutsplus.com/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397
 [instructor url]: https://tutsplus.com/authors/ashraff-hathibelagal
+
+###Release Notes:
+1. Added Chat bubble for chat messages
